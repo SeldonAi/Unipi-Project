@@ -65,7 +65,7 @@ class Game:
         # Update the board with the current move and add up 1 to move_counter
         row, col = move.row, move.col
         self._current_moves[row][col] = move
-        self.move_counter += 1
+        self.move_counter += 1 # Add one to the te move_counter
 
         # Check for a win
         for combo in self._winning_combos:
