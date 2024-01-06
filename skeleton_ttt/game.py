@@ -96,4 +96,4 @@ class Game:
                 row_content[col] = Move(row, col)
         self._has_winner = False
         self.winner_combo = []
-        self.move_counter = 0
+        self.move_counter = 0 # Reset move_counter
