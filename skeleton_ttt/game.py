@@ -41,11 +41,14 @@ class Game:
 
     def _get_winning_combos(self):
         """Return all possible winning combinations, i.e. rows, columns and diagonals."""
+        # List rows' possible winning combo
         rows = [
             [(move.row, move.col) for move in row]
             for row in self._current_moves
         ]
+        # List columns' possible winning combo
         columns = [list(col) for col in zip(*rows)]
+        # List diagonals' possible winning combo
         first_diagonal = [row[i] for i, row in enumerate(rows)]
         second_diagonal = [col[j] for j, col in enumerate(reversed(columns))]
         return rows + columns + [first_diagonal, second_diagonal]
