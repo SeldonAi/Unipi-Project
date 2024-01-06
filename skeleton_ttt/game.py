@@ -98,5 +98,5 @@ class Game:
             for col, _ in enumerate(row_content):
                 row_content[col] = Move(row, col)
         self._has_winner = False
-        self.winner_combo = []
+        self.winner_combo = [] # Reset winner_combo list 
         self.move_counter = 0
