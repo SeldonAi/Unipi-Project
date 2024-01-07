@@ -1,10 +1,10 @@
 # University of Pisa Projects
 
-Welcome to my collection of amateur projects developed during my studies at the University of Pisa. This repository serves as a living document of my educational journey and showcases various projects that reflect my learning experience.
+Welcome to my collection of projects developed during my studies at the University of Pisa. This repository serves as a living document of my educational journey and showcases various projects that reflect my learning experience.
 
 ## Introduction
 
-Each project within this repository represents a step in my pursuit of mastering the art of software development. While these projects may be amateur in nature, they are crafted with a profound commitment to learning and growth.
+Each project within this repository represents a step in my pursuit of mastering the art of software development. They are crafted with a profound commitment to learning and growth.
 
 ## Objective
 
@@ -17,12 +17,13 @@ The primary objective of these projects is to familiarize myself with the princi
 Embracing the wisdom of the celebrated Latin poet Horace, "Dimidium facti qui coepit habet," I venture into the open-source world, driven by eclectic interests and a curious mind. Starting this journey with the belief that to begin is already half the achievement, I am committed to continuous learning and the pursuit of excellence, always seeking to broaden my understanding across diverse fields.
 
 ## Projects Overview
-
 Below is a list of projects included in this repository:
 
-- **TicTacToe**: A simple implementation of the classic game to understand the basics of algorithms and user interaction.
 - **Data Mining**: An exploration into data analysis and pattern recognition within datasets.
+   - **Clustering e Predizione nel Mercato Azionario**: Un'Analisi Quantitativa. This project focuses on quantitative analysis techniques for stock market prediction and clustering.
+
 - **ASE Project**: Advanced Software Engineering project work, focusing on design patterns and software architecture.
+   - **TicTacToe**: A simple implementation of the classic game, exemplifying the basics of algorithms and user interaction as part of the ASE coursework.
 
 ## Contribution
 
