@@ -20,7 +20,7 @@ Embracing the wisdom of the celebrated Latin poet Horace, "Dimidium facti qui co
 Below is a list of projects included in this repository:
 
 - **Data Mining**: An exploration into data analysis and pattern recognition within datasets.
-   - **Clustering e Predizione nel Mercato Azionario**: Un'Analisi Quantitativa. This project focuses on quantitative analysis techniques for stock market prediction and clustering.
+   - **Clustering and Prediction in the Stock Market: A Quantitative Analysis.** This project focuses on quantitative analysis techniques for stock market prediction and clustering. (It was written in Italian for academic reasons)
 
 - **ASE Project**: Advanced Software Engineering project work, focusing on design patterns and software architecture.
    - **TicTacToe**: A simple implementation of the classic game, exemplifying the basics of algorithms and user interaction as part of the ASE coursework.
