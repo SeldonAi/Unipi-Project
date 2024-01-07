@@ -24,7 +24,7 @@ Below is a list of projects included in this repository:
 
 ## Contribution
 
-I welcome constructive feedback and suggestions for improvement. If you'd like to contribute, please feel free to fork the repository, make your changes, and submit a pull request.
+While this project is personal and not intended for collaboration as mentioned, its primary goal is to enhance my own learning experience. However, I am certainly looking forward to creating a collaborative project in the future where others can contribute. Stay tuned for that, but for now, I'll keep the details under wraps.
 
 ## License
 
