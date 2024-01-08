@@ -44,3 +44,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# macOS Folder Attributes
+.DS_Store
+._*
